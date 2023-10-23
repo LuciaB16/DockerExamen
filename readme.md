@@ -99,5 +99,6 @@ Como último paso, acabamos la instalación del PrestaShop en el navegador,
 dando el siguiente resultado:
 
 ![captura](./Imagenes/InstalacionPrestaShop.png)
+![captura](./Imagenes/Tienda.png)
 
 
