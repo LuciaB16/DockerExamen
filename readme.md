@@ -95,4 +95,9 @@ y le damos a test connection, dando como resultado lo siguiente:
 
 ![captura](./Imagenes/capturaConexion.png)
 
+Como último paso, acabamos la instalación del PrestaShop en el navegador, 
+dando el siguiente resultado:
+
+![captura](./Imagenes/InstalacionPrestaShop.png)
+
 
